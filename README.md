@@ -9,11 +9,6 @@ hey, I'm kibi.
 I build things for the internet that nobody asked for, and then somehow people end up using them.
 a day job pays the rent, the evenings go into the stuff below. the plan is to do this full time one day.
 
-<p>
-  <a href="https://github.com/licentiapoetica/snappie"><img src="https://raw.githubusercontent.com/licentiapoetica/snappie/master/docs/demo.webp" width="32%" alt="snappie"></a>
-  <a href="https://github.com/licentiapoetica/mumh5"><img src="https://raw.githubusercontent.com/licentiapoetica/mumh5/main/docs/screenshots/main.png" width="32%" alt="mumh5"></a>
-  <a href="https://github.com/licentiapoetica/vvoid"><img src="https://raw.githubusercontent.com/licentiapoetica/vvoid/main/docs/vvoid.jpg" width="32%" alt="vvoid"></a>
-</p>
 
 ### currently messing with
 
